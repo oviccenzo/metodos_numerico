@@ -167,32 +167,14 @@ y = f(x);
 plot(x,y);
 grid on
 
-
-
-
-
-
-
-
-
-
-
-
- Material de Apoio (Quadro da Aula) Arquivo
-
-
-
-
-
-
-
-
-
+Material de Apoio (Quadro da Aula) Arquivo
 
 Método da Bissecção para encontrar zeros de funções não-lineares.
 
 Datas das Aulas: 03/09 /2026 e 10/09/2026
-Exemplo: Utilize o método da bissecção para obter o valor aproximado do(s) zero(s) da função f(x) = x³ - x² - 1. Considerar o número máximo de iterações Kmax = 10 e tolerância (tol) inferior a 0,0005. Considerar que na fase 1 (localização ou isolamento) foi obtido o intervalo [1,4; 1,6].
+Exemplo: Utilize o método da bissecção para obter o valor aproximado do(s) zero(s) da função f(x) = x³ - x² - 1. 
+Considerar o número máximo de iterações Kmax = 10 e tolerância (tol) inferior a 0,0005. Considerar que na fase 1 
+(localização ou isolamento) foi obtido o intervalo [1,4; 1,6].
 
 Resposta:
               K (iteração)
