@@ -1,1 +1,0 @@
- 'E assim criamos strings'
